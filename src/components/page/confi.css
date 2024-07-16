@@ -1,0 +1,6 @@
+@media (max-width:600px) {
+    .form__input{
+        width: 675px;
+        background-color: blue;
+    }
+  }

@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+   margin: 0;
+  font-family:'fr'
+   ;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family:'fr';
+}
+@font-face {
+  font-family: "fr";
+  src: local("Ubuntu"), url("../public/favicon-32x32.png") format("truetype");
+  font-weight: bold;
+}
+ul.MuiList-root.MuiList-padding.MuiMenu-list.css-6hp17o-MuiList-root-MuiMenu-list{
+  padding: 0px !important;
+ }
+
+
+
+ 
+ @media (max-width:600px) {
+  .form__input{
+      width: 675px;
+  }
+}
+
+
+
+
