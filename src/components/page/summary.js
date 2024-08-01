@@ -228,20 +228,7 @@ margin:{sm:'30px',md:'80px'},
         </Typography>
       </Box>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
       <Box
         sx={{
           width: "90%",
